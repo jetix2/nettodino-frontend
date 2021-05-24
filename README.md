@@ -5,11 +5,13 @@
 
 - 👨‍💻 All of my projects are available at [https://orelmalki.netlify.app/](https://orelmalki.netlify.app/)
 
+- ⚡ Fun fact **I am also a streamer and a positive gamer :D**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/jetix101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="jetix101" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/orel malki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="orel malki" height="30" width="40" /></a>
-<a href="https://fb.com/orel malki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/facebook.svg" alt="orel malki" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/orel-malki-28484019a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/orel-malki-28484019a/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/orel.malki.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/orel.malki.5" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

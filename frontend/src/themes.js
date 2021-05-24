@@ -9,13 +9,13 @@ export const lightTheme = {
 
 export const darkTheme = {
   body: "#383838",
-  fontColor: "red",
+  fontColor: "white",
   
 };
 
 export const GlobalStyles = createGlobalStyle`
 	body {
-        font-family: 'Shippori Mincho', serif;
+        font-family: 'Poppins';
 		background-color: ${(props) => props.theme.body};
     }
     .card {

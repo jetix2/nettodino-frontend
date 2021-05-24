@@ -1,13 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
 html {
   font-size: 62.5%; /* 16px x 62.5 = 10px = 1rem */
   box-sizing: border-box;
+  
   
 }
 body {
   margin: 0;
   height: 100vh;
   font-size: 1.6rem;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Poppins';
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -76,7 +78,7 @@ button {
   border-radius: 0.5rem;
   border: 0.1rem #a4a4a4 solid;
   font-size: 1.6rem;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Poppins';
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -351,7 +353,7 @@ div#d {
   cursor: pointer;
   width: 160px;
   display: block;
-  font-family: 'Anton', sans-serif;
+  font-family: 'Poppins';
   border-bottom: none;
   
 
@@ -381,12 +383,12 @@ color: yellow;
 }
 h2{
   text-align: center;
-  font-family: 'RocknRoll One', sans-serif;
+  font-family: 'Poppins';
   border-radius: 30px;
 }
 h1{
   text-align: center;
-  font-family: 'RocknRoll One', sans-serif;
+  font-family: 'Poppins';
   border-radius: 30px;
 }
 

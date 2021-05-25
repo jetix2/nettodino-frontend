@@ -74,7 +74,7 @@ function App() {
               <i className="fa fa-bars"></i>
             </button>
             <Link className="brand" to="/">
-            💎ＮｅｔｔｏＤｉｎｏ💎
+            Netto<span>Dino</span>
             </Link>
           </div>
           <div>

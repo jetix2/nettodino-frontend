@@ -62,6 +62,8 @@ footer {
 h1 {
   font-size: 1.8rem;
   padding: 1rem 0;
+  text-align: center;
+  font-family: 'Poppins';
 }
 
 h2 {
@@ -131,13 +133,18 @@ header a {
 }
 
 a.brand {
-  color: #ffffff;
-  font-size: 3rem;
+  text-decoration: none;
   font-weight: bold;
+  color: white;
+  font-size: 3rem;
 }
 
 a.brand:hover {
   color: #ff8000;
+}
+
+a.brand span {
+  color: red;
 }
 
 .badge {
@@ -288,7 +295,7 @@ img.large {
 
 .card-body {
   text-align: center;
-  padding: 0.5rem;
+  padding: 1.5rem;
 }
 
 .card-body > * {
@@ -496,12 +503,6 @@ h2 {
   border-radius: 30px;
 }
 
-h1 {
-  text-align: center;
-  font-family: 'Poppins';
-  border-radius: 30px;
-}
-
 /*responsive design */
 .btn-grad {
   background-image: -webkit-gradient(linear, left top, right top, from(#e52d27), color-stop(51%, #b31217), to(#e52d27));
@@ -525,13 +526,21 @@ h1 {
 
 #cat {
   background-color: #d1dad2;
-  color: #9e1e1e;
+  color: #d39f9f;
   width: 249px;
   height: 43px;
   -webkit-transform: translateX(0.2rem);
           transform: translateX(0.2rem);
   -webkit-transition: all 0.2s;
   transition: all 0.2s;
+}
+
+.mt2 {
+  margin-top: 20px;
+}
+
+.mlf {
+  margin-left: 1040px;
 }
 
 /*responsive design mobile */

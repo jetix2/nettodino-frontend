@@ -68,7 +68,7 @@ function App() {
           <div>
             <button
               type="button"
-              className="open-sidebar"
+              className="open-sidebar but"
               onClick={() => setSidebarIsOpen(true)}
             >
               <i className="fa fa-bars"></i>
@@ -85,7 +85,7 @@ function App() {
             ></Route>
           </div>
         <button onClick={() => themeToggler()} className="fas fa-moon bob"></button>
-          <div className="cart">
+          <div className="cart dab">
             <Link to="/cart">
               Cart
               {cartItems.length > 0 && (

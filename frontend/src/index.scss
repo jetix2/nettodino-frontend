@@ -422,7 +422,10 @@ h2{
   margin-top: 20px;
 }
 .mlf {
-  margin-left: 700px
+  margin-left: 500px
+}
+.but {
+  transform: scaleY(0.8);
 }
 
 
@@ -443,5 +446,8 @@ h2{
   }
   .checkout-steps > div {
     border: 0.5rem solid
+  }
+  .dab {
+    margin-left: 73px;
   }
 }

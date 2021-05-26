@@ -540,7 +540,12 @@ h2 {
 }
 
 .mlf {
-  margin-left: 700px;
+  margin-left: 500px;
+}
+
+.but {
+  -webkit-transform: scaleY(0.8);
+          transform: scaleY(0.8);
 }
 
 /*responsive design mobile */
@@ -559,6 +564,9 @@ h2 {
   }
   .checkout-steps > div {
     border: 0.5rem solid;
+  }
+  .dab {
+    margin-left: 73px;
   }
 }
 /*# sourceMappingURL=index.css.map */
